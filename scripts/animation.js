@@ -1,0 +1,4 @@
+export const inputAnimation = {
+        params: [{color: "red", border: "solid 1px rgba(0, 0, 0, 0.2)"}, {offset: 0.1, border: "solid 1px red", transform: "translateX(-0.5px)"}, {offset: 0.2, transform: "translateX(1px)"}, {offset: 0.3, transform: "transform: translateX(-2px)"}, {offset: 0.4, transform: "translateX(2px)"}, {offset: 0.5, transform: "translateX(-2px)"}, {offset: 0.6, transform: "translateX(2px)"}, {offset: 0.7, transform: "translateX(-2px)"}, {offset: 0.8, transform: "translateX(1px)"}, {offset: 0.9, transform: "translateX(-0.5px)"}, {offset: 1, border: "solid 1px rgba(0, 0, 0, 0.2)", color: "black"}],
+        delay : 2000
+}
